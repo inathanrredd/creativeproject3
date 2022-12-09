@@ -36,3 +36,112 @@
     transform: rotate(360deg);
   }
 }
+.logo {
+    width: 50px;
+}
+
+.company-name {
+    font-weight: bold;
+}
+
+.content {
+    background-color: #e6f6fe
+}
+
+.search-area {
+    width: 100%;
+    padding-top: 15%;
+    background-image: url(images/bg-shot.png);
+    padding-bottom: 15%
+}
+
+.search-bar {
+    margin: 0 auto;
+    background-color: white;
+    border: solid gray 2px;
+    font-size: 30px;
+    color: gray;
+    width: 60%
+}
+
+.search-button {
+    float: right;
+    text-align: center;
+    margin: auto;
+    background-color: #2382f7;
+}
+
+.search-button a:link{
+    color: white;
+    text-decoration: none;
+}
+
+.event-bar {
+    background-color: #e6f6fe;
+    border-top: 0.5px solid;
+    border-top-color: #000000;
+    border-bottom: 0.5px solid;
+    border-bottom-color: #000000;
+}
+
+.join-now {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.form-container {
+   padding: 40px;
+   text-align: center;
+}
+
+.field {
+    margin-left: 18%;
+    width: 25%;
+    padding: 10px;
+    text-align: right;
+}
+
+.response {
+    margin-right: 25%;
+    width: 25%;
+    padding: 10px;
+    text-align: left;
+}
+
+.register {
+    background-color: #e6f6fe;
+}
+
+.register-button {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.main-image {
+    margin-left: 50px;
+    width: 100%
+}
+
+.image-container {
+    padding-top: 50px;
+    padding-bottom: 100px;
+    width:100%;
+}
+
+.main-image-text {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.about-heading {
+    padding-top: 25px;
+    padding-left: 25px;
+    font-size: 2em;
+}
+
+.footer {
+    text-align: center;
+    color: #7A7A7A;
+}
