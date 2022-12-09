@@ -37,7 +37,7 @@ const Home = () => {
               
             </div>
             
-            <div class="footer"> Site by Claire Chen and Nathan Redd</div>
+          <div class="footer"><a href="https://github.com/inathanrredd/creativeproject3">Github Repository</a></div>
         </div>
         </>
       );
